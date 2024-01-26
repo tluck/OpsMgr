@@ -1,0 +1,2 @@
+# OpsMgr
+Example OM Automation
